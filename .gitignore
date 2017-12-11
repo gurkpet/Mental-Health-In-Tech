@@ -1,0 +1,6 @@
+
+*.zip
+
+survey\.csv
+
+\.ipynb_checkpoints/
